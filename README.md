@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Monica Dai
-mwdai@ucsd.edu
+Monica Dai and Camille Sicat
